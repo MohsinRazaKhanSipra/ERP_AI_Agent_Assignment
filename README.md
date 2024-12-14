@@ -71,5 +71,5 @@ Enhance the user interface using Gradio components for a better user experience.
 - `requirements.txt`: Contains a list of required Python packages.
 - `fine_tuned_model/`: Directory for the fine-tuned spaCy model.
 - `erp.db`: SQLite database file (created automatically when the application is run for the first time).
-- `ERP_Agent_AI_Assignment.ipynb`: This jupyter notebook contains detail steps related to the assignment
+- `ERP_Agent_AI_Assignment.ipynb`: This jupyter notebook contains detail steps related to the assignment. It contains custom dataset details, fine-tuning details, development steps and etc.
 
